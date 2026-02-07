@@ -1,0 +1,13 @@
+# Ignorar Python / Django
+backend/__pycache__/
+backend/staticfiles/
+backend/*.pyc
+backend/.env
+backend/venv/
+
+# Ignorar Node / Angular
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+tutorial.html
